@@ -1,5 +1,6 @@
 KnifeCleaner is a tool that cleaning your PC.
 
+![image](https://github.com/user-attachments/assets/c73f27fb-9c9a-4b72-aa07-15c9a4221125)
 
 
 Functions: 
